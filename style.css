@@ -1,4 +1,35 @@
-header {
-    background-color: rgb(214, 223, 226);
-    color:aliceblue
+body{
+    background-color: aliceblue;
 }
+    
+    .header{
+        padding: 20px;
+    }
+
+    .links{
+        display: inline;
+        margin-left: 500px;
+    }
+
+    .links a{
+        margin-left: 15px;
+        text-decoration: none;
+        font-weight: bold;
+        color: black;
+    }
+
+    .span-1 , .span-2{
+        font-weight: bold;
+        font-size: x-large;
+    }
+
+    .span-1{
+        color: blue;
+    }
+
+    .span-2{
+        color: blue;
+    }
+
+    
+    
