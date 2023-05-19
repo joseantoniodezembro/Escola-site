@@ -1,18 +1,17 @@
 body{
-    background-color: aliceblue;
+    background-color: white;
 }
-    
     .header{
         padding: 20px;
     }
 
     .links{
         display: inline;
-        margin-left: 400px;
+        margin-left: 280px;
     }
 
     .links a{
-        margin-left: 15px;
+        margin-left: 20px;
         text-decoration: none;
         font-weight: bold;
         color: black;
@@ -22,6 +21,20 @@ body{
         color:blue;
         border-top: 2px solid blue;
         border-bottom: 2px solid blue;
+    }
+
+    .link-a-1{
+        background-color: aqua;
+        border: aqua solid 2px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .link-a-2{
+        background-color: transparent;
+        border: aqua solid 2px;
+        color:aqua;
+        font-weight: bold;
     }
 
     .span-1 , .span-2{
@@ -39,10 +52,25 @@ body{
 
     .secao-1{
         width: 600px;
-        background-color: beige;
-        margin-left: 50px;
-        margin-top: 50px;
+        margin-left: -50px;
+        margin-top: 30px;
     }
 
+    .img{
+        width: 400px;
+        margin: 0 auto;
+    }
+
+    .img img{
+        width: 150%;
+        border-radius: 100px;
+    }
+
+    .secao-2{
+       
+        width: 500px;
+        margin-left: -40px;
+        margin-top: 30px;
     
+    }
     
