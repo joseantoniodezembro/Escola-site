@@ -8,7 +8,7 @@ body{
 
     .links{
         display: inline;
-        margin-left: 500px;
+        margin-left: 400px;
     }
 
     .links a{
@@ -16,6 +16,12 @@ body{
         text-decoration: none;
         font-weight: bold;
         color: black;
+    }
+
+    .links a:hover{
+        color:blue;
+        border-top: 2px solid blue;
+        border-bottom: 2px solid blue;
     }
 
     .span-1 , .span-2{
@@ -29,6 +35,13 @@ body{
 
     .span-2{
         color: blue;
+    }
+
+    .secao-1{
+        width: 600px;
+        background-color: beige;
+        margin-left: 50px;
+        margin-top: 50px;
     }
 
     
