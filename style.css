@@ -56,6 +56,7 @@ body{
         margin-top: 30px;
     }
 
+
     .img{
         width: 400px;
         margin: 0 auto;
@@ -88,6 +89,14 @@ body{
         width: 500px;
         margin-left: 600px;
         margin-top: -280px;
+
+    }
+    
+    .secao-4{
+        width: 500px;
+        margin-left: 600px;
+        margin-top: 280px;
+
 
     }
 
