@@ -108,6 +108,40 @@ body {
     border-radius: 100px;
 }
 
+.secao-6 {
+    width: 100%;
+    border-radius: 100px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.secao-7 {
+    margin-left: 325px;
+    width: 100%;
+    border-radius:100px;
+    margin-top: 20px;
+}
+
+.secao-8 {
+    
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.secao-9{
+    margin-left: 225px;
+    width: 100%;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+.secao-10{
+    margin-top: 20px;
+    width: 200px;
+    margin-left: 0px;
+    
+}
+
+
 .section {
     scroll-snap-align: start;
     height: 70vh;
@@ -123,8 +157,9 @@ body {
 .section-1 {
     background: rgb(177, 210, 233);
 }
-.section-2 {  
-    background:  rgb(177, 210, 233);
+
+.section-2 {
+    background: rgb(177, 210, 233);
 }
 
 
@@ -143,4 +178,3 @@ body {
 .section-6 {
     background: rgb(177, 210, 233);
 }
-
