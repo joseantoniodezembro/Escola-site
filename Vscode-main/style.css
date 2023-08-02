@@ -8,7 +8,7 @@ body {
 
 .links {
     display: inline;
-    margin-left: 200px;
+    margin-left: 800px;
 }
 
 .links a {
@@ -116,7 +116,7 @@ body {
 }
 
 .secao-7 {
-    margin-left: 325px;
+    margin-left: 300px;
     width: 100%;
     border-radius:100px;
     margin-top: 20px;
@@ -126,7 +126,7 @@ body {
     
     width: 200px;
     margin-left: 50px;
-    margin-top: 20px;
+    margin-top: -300px;
 }
 .secao-9{
     margin-left: 225px;
@@ -134,10 +134,16 @@ body {
     border-radius: 100px;
     margin-top: 50px;
 }
-.secao-10{
+.secao-11{
     margin-top: 20px;
     width: 200px;
     margin-left: 0px;
+    
+}
+.secao-12{
+    margin-top:150px;
+    width: 200px;
+    margin-left: 800px;
     
 }
 
