@@ -3,16 +3,16 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 30px;
 }
 
 .links {
     display: inline;
-    margin-left: 800px;
+    margin-left: 200px;
 }
 
 .links a {
-    margin-left: 20px;
+    margin-left:25px;
     text-decoration: none;
     font-weight: bold;
     color: black;
@@ -60,8 +60,9 @@ body {
 
 
 .img {
-    width: 400px;
+    width: 300px;
     margin: 0 auto;
+    margin-top: 320px;
 }
 
 .img img {
@@ -116,7 +117,7 @@ body {
 }
 
 .secao-7 {
-    margin-left: 300px;
+    margin-left: 85px;
     width: 100%;
     border-radius:100px;
     margin-top: 20px;
@@ -132,20 +133,25 @@ body {
     margin-left: 225px;
     width: 100%;
     border-radius: 100px;
-    margin-top: 50px;
+    margin-top: 100px;
 }
-.secao-11{
-    margin-top: 20px;
-    width: 200px;
-    margin-left: 0px;
+.vice{
+    margin-top:-470px;
+    margin-left:600px;
+}
+.imgvice{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-left:100px ;
+    width: 150%;
+    border-radius: 100px;
+}
+
     
-}
-.secao-12{
-    margin-top:150px;
-    width: 200px;
-    margin-left: 800px;
-    
-}
+
+
+
 
 
 .section {
